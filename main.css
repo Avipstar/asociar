@@ -123,6 +123,7 @@ h2 {
     height: 400px;
     border-radius: 25px;
     margin-bottom: 1em;
+    max-width: 500px;
 }
 
 .contact-info {
