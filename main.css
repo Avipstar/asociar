@@ -123,7 +123,8 @@ h2 {
     height: 400px;
     border-radius: 25px;
     margin-bottom: 1em;
-    max-width: 500px;
+    margin: 1em auto;
+    max-width: 90%;
 }
 
 .contact-info {
@@ -257,7 +258,7 @@ h2 {
         height: 300px;
         margin: 0;
         margin-top:6%;
-        margin-left: -25%;
+        margin-left: -21%;
     }
 
     .contact-info {
@@ -328,5 +329,3 @@ h2 {
         margin: 1em;
     }
 }
-
-
