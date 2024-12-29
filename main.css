@@ -114,7 +114,7 @@ h2 {
     border-radius: 25px;
     display: flex;
     flex-direction: column;
-    padding: 1em;
+    padding: 2em;
 }
 
 .contact-section iframe {
@@ -125,6 +125,7 @@ h2 {
     margin-bottom: 1em;
     margin: 1em auto;
     max-width: 90%;
+    margin-top: 5%;
 }
 
 .contact-info {
@@ -205,11 +206,6 @@ h2 {
     object-fit: cover;
 }
 
-.inf{
-    margin:auto;
-    max-width: 90%;
-}
-
 .comp {
     display: flex;
     flex-wrap: wrap;
@@ -256,9 +252,7 @@ h2 {
         flex: 1;
         max-width: 60%;
         height: 300px;
-        margin: 0;
-        margin-top:6%;
-        margin-left: -21%;
+        margin: auto;
     }
 
     .contact-info {
